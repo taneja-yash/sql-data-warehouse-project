@@ -1,2 +1,4 @@
-# sql-data-warehouse-project
-Modern Data Warehouse with SQL Server, including ETL processes, data modeling, and analytics.
+# Data Warehouse and Analytics Project
+
+This project demonstrates a comprehensive data warehousing and analytics solution. From building a data warehouse to generating actionable business insights.
+
