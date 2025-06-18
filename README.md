@@ -40,7 +40,7 @@ Sources → Bronze (Raw) → Silver (Cleaned) → Gold (Business-Ready) → BI /
 
 This layer contains business-ready **views** structured for analysis.
 
-### ✔️ Tables
+### ✔️ Views
 - [`dim_customers`]
 - [`dim_products`]
 - [`fact_sales`]
