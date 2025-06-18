@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse Project – CRM & ERP Data Integration
+# SQL Data Warehouse Project – CRM & ERP Data Integration
 
 Welcome to the **SQL Data Warehouse Project**, designed to demonstrate the complete end-to-end development of a modern data warehouse using best practices in ETL, dimensional modeling, and business reporting. This project integrates **CRM** and **ERP** datasets into a centralized data platform following a layered architecture: **Bronze**, **Silver**, and **Gold**.
 
